@@ -15,4 +15,6 @@ File: 10-no_more_js: Write a script that deletes all the regular files (not the 
 
 13-unique; Create a script that takes a list of words as input and prints only words that appear exactly once.
 
-14-findthatword: Displays lines containing the pattern “root” from the file /etc/passwd
+14-findthatword: Displays lines containing the pattern “root” from the file /etc/passwtword
+
+15-countthatword; Displays the number of lines that contain the pattern “bin” in the file /etc/passwd
