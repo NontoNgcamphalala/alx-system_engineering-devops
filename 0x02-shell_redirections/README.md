@@ -32,3 +32,5 @@ File: 10-no_more_js: Write a script that deletes all the regular files (not the 
 21-reverse; Writes a script that reverse its input.
 
 22-users_and_homes; Writes a script that displays all users and their home directories, sorted by users.
+
+100-empty_casks; Writes  a command that finds all empty files and directories in the current directory and all sub-directories.
