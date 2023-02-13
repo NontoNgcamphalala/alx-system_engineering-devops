@@ -18,3 +18,7 @@ File: 10-no_more_js: Write a script that deletes all the regular files (not the 
 14-findthatword: Displays lines containing the pattern “root” from the file /etc/passwtword
 
 15-countthatword; Displays the number of lines that contain the pattern “bin” in the file /etc/passwd
+
+16-whatsnext: Displays  lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+17-hidethisword Displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
